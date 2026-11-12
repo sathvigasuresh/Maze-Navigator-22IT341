@@ -1,0 +1,6 @@
+{
+  "name": "MAZE NAVIGATOR – Data Structures and Algorithms Visualizer",
+  "description": "Interactive educational visualizer for 22IT341 Data Structures maze navigation project at Thiagarajar College of Engineering, demonstrating Stack, Queue, DFS, BFS, Singly Linked List, and algorithmic comparisons.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
